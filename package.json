@@ -1,0 +1,9 @@
+{
+  "name": "telegram-bot-tutor-ai",
+  "version": "0.1.1",
+  "private": true, 
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
